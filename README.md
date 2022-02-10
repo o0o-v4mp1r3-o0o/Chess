@@ -1,3 +1,3 @@
 -This is an entire chess GUI written in java
--Supports all chess rules, including things like mate, enpassant, promotion
+-Supports all chess rules, including things like mate, enpassant, promotion, stalemate, threefold repetition, detecting pinned pieces, and all of the like.
 -
